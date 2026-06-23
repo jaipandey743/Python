@@ -1,0 +1,2 @@
+I am learning python
+this file was generated as the result of write_file.py
